@@ -15,4 +15,4 @@ function square(v1) {
     return Math.sqrt(v1);
 }
 
-console.log(sum(v1, v2));
+console.log(square(25));
